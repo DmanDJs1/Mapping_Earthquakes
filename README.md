@@ -15,4 +15,4 @@ Some of the tasks required for succefully completing this project included:
     * Making color changes to lines
     * Making color changes on marker types according to radius and earthquake magnitude
     
-![image]
+![image](https://github.com/DmanDJs1/Mapping_Earthquakes/blob/main/Earthquake%20Challenge%20Pic.jpg?raw=true) 
